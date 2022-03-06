@@ -8,3 +8,20 @@
   Javascript
 ## Requirements
   JSFiddle or Javascript console
+## Setup Instructions and Installation
+   Clone this repository to a location in your file system.'git clone https://github.com/JamesMusembi/Akan-Names.git'
+## Behaviour Driven Development
+   1. Displays Form For Entering Date and Gender
+   - INPUT: "User's Birthdate Entered"
+   - INPUT: "User's Gender Entered"
+   - OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
+2. Displays an Error Message if Date Input Left Blank
+   - INPUT: ""
+   - OUTPUT: "Displays Error Message"
+3. Displays an Error Message if Gender Not Chosen
+   - INPUT: "" 
+   - OUTPUT: "Display an Error Message" 
+4. Clears Form and Reset the Message on Click
+   - INPUT: "Click Reset Button" 
+   - OUTPUT: "Clears and Resets the Form"
+   
