@@ -25,6 +25,7 @@
    - INPUT: "Click Reset Button" 
    - OUTPUT: "Clears and Resets the Form"
 ## Link to Live Site
+      
 ## LICENSE
    *MIT*
    copyright(c) 2022 **James Musembi**
